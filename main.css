@@ -1,0 +1,18 @@
+#mydiv{
+    color: red;
+    font-size: x-large;
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    background-image: url("./img/huojian.gif");
+    background-repeat: no-repeat;
+}
+
+#otherdiv{
+    font-size: large;
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    background-image: url("./img/1.jpg");
+    background-repeat: no-repeat;
+}
